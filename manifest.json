@@ -1,0 +1,9 @@
+{
+  "name": "MASTER AI TELUGU EDUCATION",
+  "short_name": "MASTER AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#111827",
+  "description": "AI Learning & Teaching Hub by Vandanam Master"
+}
