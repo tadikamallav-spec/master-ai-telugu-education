@@ -28,8 +28,14 @@ footer{text-align:center;padding:40px 6%;border-top:1px solid var(--line);color:
 
 @media(max-width:560px){
   .hero-master-image{
-    max-height:260px;
+  
+height:auto;
+    max-height:none;
     border-radius:12px;
     margin-bottom:18px;
   }
 }
+    
+    
+  
+
