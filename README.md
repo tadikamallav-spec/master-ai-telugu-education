@@ -1,4 +1,4 @@
-# MASTER AI TELUGU EDUCATION — V1
+# MASTER AI TELUGU EDUCATION — V2
 
 AI Learning & Teaching Hub by VANDANAM MASTER.
 
@@ -43,3 +43,7 @@ GitHub will then provide the public website URL.
 - `manifest.json` — app-like metadata
 
 No paid API or database is required for this V1.
+
+
+## V2 connected links
+YouTube, Instagram, Facebook, WhatsApp and MASTER AI Learning App are pre-connected in `site-data.js`.

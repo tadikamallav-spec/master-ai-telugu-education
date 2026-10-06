@@ -49,9 +49,9 @@ const SITE_DATA = {
   ],
 
   app: {
-    openUrl:"#",
-    downloadUrl:"#",
-    demoUrl:"#"
+    openUrl:"https://app.emergent.sh/share-preview?app=exp%3A%2F%2Fai-telugu-learn-1.preview.emergentagent.com%3Fexpo_go_prompt_device_auth%3D1%26expo_go_device_auth_verification_uri_override%3Dapp.emergent.sh&job_id=e6e101c8-9958-4a34-92e6-75dda1229994",
+    downloadUrl:"https://app.emergent.sh/share-preview?app=exp%3A%2F%2Fai-telugu-learn-1.preview.emergentagent.com%3Fexpo_go_prompt_device_auth%3D1%26expo_go_device_auth_verification_uri_override%3Dapp.emergent.sh&job_id=e6e101c8-9958-4a34-92e6-75dda1229994",
+    demoUrl:"https://youtube.com/@zphsvmbanjar"
   },
 
   resources: [
@@ -62,9 +62,9 @@ const SITE_DATA = {
   ],
 
   social: [
-    {name:"YouTube",icon:"▶️",url:"#"},
-    {name:"Instagram",icon:"📸",url:"#"},
-    {name:"Facebook",icon:"f",url:"#"},
-    {name:"WhatsApp",icon:"💬",url:"#"}
+    {name:"YouTube",icon:"▶️",url:"https://youtube.com/@zphsvmbanjar"},
+    {name:"Instagram",icon:"📸",url:"https://www.instagram.com/vandanamsir/"},
+    {name:"Facebook",icon:"f",url:"https://www.facebook.com/share/r/1TzBXPDgPW/"},
+    {name:"WhatsApp",icon:"💬",url:"https://wa.me/918639506336"}
   ]
 };
