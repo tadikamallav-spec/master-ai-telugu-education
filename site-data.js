@@ -13,13 +13,19 @@ const SITE_DATA = {
   ],
 
   aiTools: [
-    {name:"ChatGPT", icon:"💬", category:"LLM", desc:"AI assistant for teaching, planning, writing, learning and creative work.", url:"https://chatgpt.com/", tags:["LLM","Teacher"]},
-    {name:"Google Gemini", icon:"✦", category:"LLM", desc:"Google AI assistant for learning, research and content creation.", url:"https://gemini.google.com/", tags:["LLM","Google"]},
-    {name:"Canva", icon:"🎨", category:"Design", desc:"Design presentations, posters, worksheets, certificates and social media content.", url:"https://www.canva.com/", tags:["Design","Teacher"]},
-    {name:"ElevenLabs", icon:"🎙️", category:"Voice", desc:"AI voice and audio creation tools.", url:"https://elevenlabs.io/", tags:["Voice","Audio"]},
-    {name:"ADD NEW AI TOOL", icon:"＋", category:"Future", desc:"Duplicate this item in site-data.js and paste the official link.", url:"#", tags:["Easy Add"]}
-  ],
-
+  {name:"ChatGPT",icon:"💬",category:"LLM",desc:"AI assistant for teaching, planning, writing, learning and creative work.",url:"https://chatgpt.com/",tags:["LLM","Teacher"]},
+  {name:"Google Gemini",icon:"✨",category:"LLM",desc:"Google AI assistant for learning, research and content creation.",url:"https://gemini.google.com/",tags:["LLM","Google"]},
+  {name:"Canva",icon:"🎨",category:"Design",desc:"Create presentations, posters, worksheets and educational designs.",url:"https://www.canva.com/",tags:["Design","Teacher"]},
+  {name:"NotebookLM",icon:"📚",category:"Research",desc:"Study and organize source materials with Google's AI research assistant.",url:"https://notebooklm.google.com/",tags:["Research","Teacher"]},
+  {name:"Perplexity",icon:"🔎",category:"Research",desc:"AI-powered research and web answer tool.",url:"https://www.perplexity.ai/",tags:["Research","AI"]},
+  {name:"Gamma",icon:"📊",category:"Presentation",desc:"Create presentations and visual documents with AI.",url:"https://gamma.app/",tags:["Presentation","Teacher"]},
+  {name:"Microsoft Copilot",icon:"🤖",category:"LLM",desc:"Microsoft AI assistant for writing, research and productivity.",url:"https://copilot.microsoft.com/",tags:["LLM","Productivity"]},
+  {name:"Adobe Express",icon:"🖼️",category:"Design",desc:"Create educational graphics, posters and social media content.",url:"https://www.adobe.com/express/",tags:["Design","Creative"]},
+  {name:"ElevenLabs",icon:"🎙️",category:"Voice",desc:"AI voice and audio creation tools.",url:"https://elevenlabs.io/",tags:["Voice","Audio"]},
+  {name:"Google AI Studio",icon:"🧠",category:"AI",desc:"Experiment with Google's Gemini AI models and prompts.",url:"https://aistudio.google.com/",tags:["AI","Google"]},
+  {name:"Suno",icon:"🎵",category:"Music",desc:"Create songs and music using AI.",url:"https://suno.com/",tags:["Music","Creative"]},
+  {name:"CapCut",icon:"🎬",category:"Video",desc:"Video editing and AI-powered content creation.",url:"https://www.capcut.com/",tags:["Video","Creative"]}
+],
   teacherTools: [
     {name:"Lesson Plan Assistant",icon:"📘",desc:"Use a ready prompt with your preferred AI tool.",url:"#"},
     {name:"Worksheet Maker",icon:"📝",desc:"Build classroom worksheets and activities.",url:"#"},
