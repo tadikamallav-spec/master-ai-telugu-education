@@ -14,3 +14,22 @@ nav{display:flex;gap:16px;font-size:14px;color:#dbe7f5}nav a:hover{color:var(--a
 footer{text-align:center;padding:40px 6%;border-top:1px solid var(--line);color:var(--muted)}footer b{color:white}footer small{display:block;margin-top:8px}
 @media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}nav{display:none;position:absolute;top:67px;left:0;right:0;padding:18px;background:#081421;flex-direction:column;border-bottom:1px solid var(--line)}nav.open{display:flex}.menu{display:block}.socialgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.hero{padding-top:60px}.stats{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}.searchrow{flex-direction:column}.searchrow select{max-width:none}.section,.quick,.about{padding:45px 5%}.appBanner{margin:25px 5%;padding:28px 18px}.socialgrid{grid-template-columns:1fr}.brand b{font-size:14px}}
+.hero-master-image{
+  width:100%;
+  max-width:850px;
+  height:auto;
+  max-height:420px;
+  object-fit:cover;
+  object-position:center 30%;
+  display:block;
+  margin:0 auto 25px;
+  border-radius:18px;
+}
+
+@media(max-width:560px){
+  .hero-master-image{
+    max-height:260px;
+    border-radius:12px;
+    margin-bottom:18px;
+  }
+}
