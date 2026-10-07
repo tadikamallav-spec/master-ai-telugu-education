@@ -27,10 +27,10 @@ const SITE_DATA = {
   {name:"CapCut",icon:"🎬",category:"Video",desc:"Video editing and AI-powered content creation.",url:"https://www.capcut.com/",tags:["Video","Creative"]}
 ],
   teacherTools: [
-    {name:"Lesson Plan Assistant",icon:"📘",desc:"Use a ready prompt with your preferred AI tool.",url:"#"},
-    {name:"Worksheet Maker",icon:"📝",desc:"Build classroom worksheets and activities.",url:"#"},
-    {name:"MCQ & Quiz Planner",icon:"✅",desc:"Create practice questions and revision sets.",url:"#"},
-    {name:"Translation Assistant",icon:"🌐",desc:"Telugu • Hindi • English teaching support.",url:"#"}
+    {name:"Lesson Plan Assistant",icon:"📘",desc:"Use a ready prompt with your preferred AI tool.",url:"https://chatgpt.com/"},
+    {name:"Worksheet Maker",icon:"📝",desc:"Build classroom worksheets and activities.",url:"https://www.canva.com/worksheets/templates/"},
+    {name:"MCQ & Quiz Planner",icon:"✅",desc:"Create practice questions and revision sets.",url:"https://chatgpt.com/"},
+    {name:"Translation Assistant",icon:"🌐",desc:"Telugu • Hindi • English teaching support.",url:"https://translate.google.com/"}
   ],
 
   practice: [
