@@ -34,7 +34,7 @@ const SITE_DATA = {
   ],
 
   practice: [
-    {name:"TET Practice",icon:"🎯",desc:"Add your public HTML test link here.",url:"#",tags:["TET","HTML"]},
+    {name:"TET Practice",icon:"🎯",desc:"Add your public HTML test link here.",url:"tet-practice.html",tags:["TET","HTML"]},
     {name:"Hindi Interactive Learning",icon:"अ",desc:"Add Hindi learning HTML files here.",url:"#",tags:["Hindi","Interactive"]},
     {name:"Telugu FLN / LIP",icon:"అ",desc:"Add Telugu FLN and LIP resources here.",url:"#",tags:["Telugu","FLN"]},
     {name:"Educational Games",icon:"🎮",desc:"Add quizzes, games and student activities.",url:"#",tags:["Games","Students"]}
